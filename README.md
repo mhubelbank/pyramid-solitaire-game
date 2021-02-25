@@ -1,1 +1,1 @@
-# pyramid-solitaire-game-update
+# pyramid-solitaire-game
